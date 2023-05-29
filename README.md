@@ -15,5 +15,5 @@ Nama Anggota:
 
 - Devi Natalia W (11)
 - Arni Tiara Putri (06)
-- Camela Desvita Putri (11)
+- Camela Desvita Putri (09)
 - Dona Cahyani (14) 
