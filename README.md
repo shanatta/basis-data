@@ -10,8 +10,8 @@
 ## Deskripsi
 
 Tes Sumatif Basis Data<br/>
-Kelompok: 5
-Tema: penjualan buah
+Kelompok: 5<br/>
+Tema: penjualan buah<br/>
 Nama Anggota:
 
 - Devi Natalia W (11)
