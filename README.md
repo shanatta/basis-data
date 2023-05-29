@@ -17,4 +17,3 @@ Nama Anggota:
 - Arni Tiara Putri (06)
 - Camela Desvita Putri (11)
 - Dona Cahyani (14) 
-- 
