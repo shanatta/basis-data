@@ -2,7 +2,7 @@
   PAT Basis Data<br/>
 </h2>
 <div align="center">
-  <img alt="banner" src="./assets/images/banner.png" />
+  <img alt="banner" src="./assets/images/banner.jpg" />
 </div>
 
 <br/>
