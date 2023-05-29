@@ -2,7 +2,7 @@
   PAS Basis Data<br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./assets/images/demo.gif" />
+  <img alt="banner" src="./assets/images/banner.jpg" />
 </div>
 
 <br/>
