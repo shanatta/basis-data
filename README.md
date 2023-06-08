@@ -4,7 +4,7 @@
 </h2>
 <div align="center">
   <img alt="banner" src="./assets/images/banner.png" />
-  <img alt="home" src="./assets/images/home.jpg = 287x519" />
+  <img alt="home" src="./assets/images/home.jpg" width="287" height="519" />
   <img alt="tabel" src="./assets/images/tabel.jpeg" />
 </div>
 
