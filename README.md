@@ -1,6 +1,6 @@
 <h2 align="center">
   PSAT Basis Data<br/>
-  <a href="https://bit.ly/3qhGxAG" target="_blank">Disini !!</a>
+  <a href="https://github.com/shanatta/basis-data" target="_blank">Preview</a>
 </h2>
 <div align="center">
   <img alt="banner" src="./assets/images/banner.png" />
