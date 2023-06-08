@@ -6,7 +6,7 @@
   <img alt="banner" src="./assets/images/banner.png" />
   <img alt="tabel" src="./assets/images/tabel.jpeg" />
 </div>
-  <img alt="home" src="./assets/images/home.jpg" width="287" height="519" />
+  <img alt="home" src="./assets/images/home.jpg" />
 
 <br/>
 
